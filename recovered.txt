@@ -1,0 +1,12 @@
+CRYPTOGRAPHY AND NETWORK SECURITY PROJECT
+
+Project Title: File Encryption and Decryption
+
+This is a sample confidential file created for the
+BCS703 Cryptography and Network Security practical.
+
+The purpose of this project is to demonstrate how
+AES-256 encryption protects data from unauthorized access.
+
+Only a person with the correct password can recover
+the original information.
